@@ -1,0 +1,120 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: azure;
+    color: black;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    margin: 0px;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: bold;  
+}
+
+nav ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+nav a:hover{
+    background-color: hsla(240, 100%, 55%, 0.574);
+}
+
+nav li{
+    float: left;
+}   
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    padding: 75px;
+}
+
+.text{
+    flex: 1;
+    margin-left: 5%;
+}
+.text p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+.image {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+}
+.image img {
+    width: 350px;
+    height: auto    ;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.hero-skills {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    padding: 75px;
+    color: azure;
+}
+
+.text-skills {
+    flex: 1;
+    margin-left: 5%;
+}
+.text-skills p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+.image-skills {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+.image-skills img {
+    width: 700px;
+    height: auto;
+    object-fit: cover;
+}
+
+.hero-projects {
+    display: flex;
+    align-items: center;
+    margin-right: 5%;
+}
+
+.image-project1, .image-project2, .image-project3, .image-project4 {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.image-project1 img, .image-project2 img, .image-project3 img, .image-project4 img {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 20px;
+}
