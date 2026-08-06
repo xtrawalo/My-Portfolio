@@ -92,10 +92,9 @@ nav li{
     display: flex;
     justify-content: flex-end;
     margin-top: 5%;
-    margin-right: 3%;
 }
 .image-skills img {
-    width: 800px;
+    width: 700px;
     height: auto;
     object-fit: cover;
 }
