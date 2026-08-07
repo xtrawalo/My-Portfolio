@@ -105,6 +105,10 @@ nav li{
     margin-right: 5%;
 }
 
+.text-project{
+    text-align: center;
+}
+
 .image-project1, .image-project2, .image-project3, .image-project4 {
     flex: 1;
     display: flex;
@@ -116,4 +120,38 @@ nav li{
     height: auto;
     object-fit: cover;
     border-radius: 20px;
+}
+
+.links{
+    display: flex;
+    font-size: 2rem;
+    line-height: 1.8;
+    font-weight: 900;
+    justify-content: center;
+    gap: 30px;
+}
+
+.links a{
+    color: azure;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.links a:hover{
+    color: #0066CC;
+}
+
+
+.link-card {
+    width: 220px;
+    padding: 35px 25px;
+    background: #001f3e;
+    border-radius: 15px;
+    align-items: center;
+    float: left;
+}
+
+.links img{
+    width: 100px;
 }
