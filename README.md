@@ -1,4 +1,7 @@
 <h1 align="center">My Portfolio</h1>
+<p align="center">
+<img src="Assets/Screenshots/Welcome.png">
+</p>
 
 ## Table of content
 
