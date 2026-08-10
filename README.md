@@ -1,8 +1,4 @@
-<h1 align="center"> : Website in HTML & CSS & JS</h1>
-<p align="center">
-<img src="Assets/Screenshots/Welcome.png">
-WCC is an abbreviation for World Cup Countries and it's a website where you open packs to collect all qualified countries for the World Cup. Everything is saved securely in Firebase.
-</p>
+<h1 align="center">My Portfolio</h1>
 
 ## Table of content
 
