@@ -52,7 +52,7 @@ Try it here  → https://xtrawalo.github.io/My-Portfolio
 
 ## AI Usage
 
-This project is my own work. I used Chatgpt only for debugging.
+This project is my own work. I used AI only for debugging.
 
 ## Author
 
