@@ -1,6 +1,7 @@
-<h1 align="center">My Portfolio</h1>
+<h1 align="center">Houad's Portfolio</h1>
 <p align="center">
 <img src="Assets/Screenshots/Welcome.png">
+A clean personal portfolio website built using Swirl Workshop to highlight my technical skills, past projects, and ways to get in touch.
 </p>
 
 ## Table of content
@@ -19,7 +20,7 @@
 
 ## Demo
 
-Try it here  → https://xtrawalo.github.io/My-Portfolio
+Try it here  → https://xtrawalo.github.io/Houad's-Portfolio
 
 ### About me
 
