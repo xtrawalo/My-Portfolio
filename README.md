@@ -25,22 +25,27 @@ Try it here  → https://xtrawalo.github.io/Houad-s-Portfolio
 ### About me
 
 <img src="Assets/Screenshots/Welcome.png">
+A brief introduction highlighting who I am.
 
 ### Skills
 
 <img src="Assets/Screenshots/Skills.png">
+The programming languages, tools, and technologies I work with.
 
 ### Projects
 
 <img src="Assets/Screenshots/Projects.png">
+A showcase of four of my best projects.
 
 ### Contact
 
 <img src="Assets/Screenshots/Contact.png">
+A section that allows visitors to send me a message
 
 ### 404 Page
 
 <img src="Assets/Screenshots/404.png">
+A custom error page designed to lost visitors
 
 ## Tech Stack
 
