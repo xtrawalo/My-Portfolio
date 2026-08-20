@@ -20,7 +20,7 @@ A clean personal portfolio website built using Swirl Workshop to highlight my te
 
 ## Demo
 
-Try it here  → https://xtrawalo.github.io/Houad's-Portfolio
+Try it here  → https://xtrawalo.github.io/Houad-s-Portfolio
 
 ### About me
 
